@@ -1,2 +1,18 @@
-# neural_scl
-NeuralWorks test
+# NeuralWorks test
+
+## Airline Delay Analysis
+
+1. Exploratory Data Analysis
+2. Data cleaning
+3. Create new useful features
+4. Data split train-test-valid
+5. Model and training
+6. Evaluate - Results
+7. Hyper-parameter tuning
+
+### Requirements
+* `Python 3.11`
+* Libraries: `pip install -r requirements.txt`
+
+### Resultados
+* Jupiter notebooks
